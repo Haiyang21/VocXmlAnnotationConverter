@@ -1,0 +1,2 @@
+E:/data/image_0001.jpg	2	ChinaFlag	100	100	200	200	KoreaFlag	112	112	212	212
+E:/data/image_0002.jpg	2	ChinaFlag	111	222	333	444	KoreaFlag	555	666	777	888
